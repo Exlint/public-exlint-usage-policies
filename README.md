@@ -1,1 +1,1 @@
-# public-exlint-usage-policies
+# Exlint Usage Policies
